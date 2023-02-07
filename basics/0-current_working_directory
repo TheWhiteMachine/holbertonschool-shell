@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "the Working Directory is : "${pwd}/n
+#!/bin/pwd/n
