@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r '*._js' 
+find -name "*._js" > rm -r *.*
