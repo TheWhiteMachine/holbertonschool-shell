@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -R *._js 
+rm -r '*._js' 
