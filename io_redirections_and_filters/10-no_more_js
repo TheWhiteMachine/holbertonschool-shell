@@ -1,2 +1,2 @@
 #!/bin/bash
-find -r -type -f -name "+.js" -exec rm -R *.*
+find -r -name "+.js" -exec rm -R *.*
