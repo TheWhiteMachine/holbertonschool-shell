@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 1~2p
+paste | cat -n | $(expr (%.1s % 2))!=0
