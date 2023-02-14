@@ -1,2 +1,2 @@
 #!/bin/bash
-cut source -d "=" -f 1
+printenv
