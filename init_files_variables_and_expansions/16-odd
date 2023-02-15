@@ -1,2 +1,2 @@
 #!/bin/bash
-paste | cat -n | $(expr (%.1s % 2))!=0
+paste | cat -n% 2!=0 | 
